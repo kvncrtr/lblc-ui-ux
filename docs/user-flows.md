@@ -108,3 +108,8 @@ Sees tour photos/testimonials →
 Prompt to Schedule a Tour
 
 ✅ Converts emotionally connected users into warm leads.
+
+### Note
+- Features are visible elements of your app that users interact with (what it offers).
+
+- Functions are the underlying capabilities or tasks the app performs (what it does).
