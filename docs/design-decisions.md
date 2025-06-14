@@ -17,3 +17,5 @@ Several components were also adapted from free Figma community resources. While 
 7. If text is in a card the text does NOT get an additional horizontal padding the text will just appear close to the cards border.
 8. if an image that spans the full viewport width is the top of a section than that section does NOT get a padding top of 56px. if the image is a grid, collage, or has an color underlay then the section gets a top padding of 56px.
 9. majority of the sections have subsections that have a 16px gap unless its a design deviation with manager approval.
+10. for header text the line spacing is 38px.
+11. h2 in mobile is 24px and has a line height of 30px.
